@@ -14,8 +14,8 @@ Built using
 * Flutter
 ___
 Snaps from the app:-
-![Snap from the app](../images/WhatsApp Image 2020-07-07 at 5.30.03 PM.jpeg)
-![Snap from the app](../images/WhatsApp Image 2020-07-07 at 5.30.03 PM (1).jpeg)
+![Snap from the app](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594124266/readme%20images/I%20am%20Poor%20App%20Flutter/WhatsApp_Image_2020-07-07_at_5.30.03_PM_urb8in.jpg)
+![Snap from the app](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594124265/readme%20images/I%20am%20Poor%20App%20Flutter/WhatsApp_Image_2020-07-07_at_5.30.03_PM_1_asdcnz.jpg)
 
 
 ___
